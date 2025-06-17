@@ -3,11 +3,15 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
